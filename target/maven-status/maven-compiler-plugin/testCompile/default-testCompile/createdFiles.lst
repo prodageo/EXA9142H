@@ -1,0 +1,5 @@
+japicmp/util/StringArrayEnumerationTest.class
+japicmp/util/ModifierHelperTest.class
+japicmp/util/SignatureParserTest.class
+japicmp/cmp/PackageFilterTest.class
+japicmp/cli/CliParserTest.class

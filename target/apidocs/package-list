@@ -1,0 +1,11 @@
+japicmp
+japicmp.cli
+japicmp.cmp
+japicmp.config
+japicmp.exception
+japicmp.model
+japicmp.output
+japicmp.output.stdout
+japicmp.output.xml
+japicmp.output.xml.model
+japicmp.util
